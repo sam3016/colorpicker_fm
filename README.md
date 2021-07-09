@@ -1,6 +1,7 @@
 <h1>Color Picker(v0.1)</h1>
 
 English
+
 #Introduction
 It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color
 
