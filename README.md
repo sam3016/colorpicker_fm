@@ -11,12 +11,12 @@ You are welcome to send me the translation of other languages. I will update it 
 <h2>FileMaker Version</h2>
 It supports Claris FileMaker > 19.0
 
-For Windows user before 19.3, please use the color-picker in ColorPicker_19.2 folder.
+For Windows before 19.3, please use the color-picker in ColorPicker_19.2 folder.
 
 For Mac user or Windows > 19.3, please use the color-picker from the ColorPicker folder.
 
 <h2>Installation</h2>
-Please copy the add-on folder in AddonModules
+Please copy the add-on folder to AddonModules
 
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
 
