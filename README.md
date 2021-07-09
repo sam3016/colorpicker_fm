@@ -1,7 +1,5 @@
 <h1>Color Picker(v0.1)</h1>
 
-English
-
 <h2>Introduction</h2>
 It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color
 
@@ -27,7 +25,6 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 <h2>Contact</h2>
 If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
 
-日本語
 <h2>紹介</h2>
 Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw)とreact-colorで作られたツールです。
 
