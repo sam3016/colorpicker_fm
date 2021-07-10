@@ -22,7 +22,7 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
 
 <h2>紹介</h2>
-Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw)とreact-colorで作られたツールです。
+Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-colorで作られたツールです。
 
 <h2>言語</h2>
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。他の言語をいただけたら、なるべく早めに修正いたします。
