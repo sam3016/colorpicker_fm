@@ -25,7 +25,7 @@ If there are any issue you found, please contact me through GitHub or email me(s
 Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-colorで作られたツールです。
 
 <h2>言語</h2>
-日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。他の言語をいただけたら、なるべく早めに修正いたします。
+日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。
 
 <h2>FileMakerバーション</h2>
 FileMaker　19.3以上サポートされています。
@@ -38,4 +38,4 @@ Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModul
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>連絡</h2>
-もし何か問題あればGitHubやメール（samhui007@protonmail.com）で連絡してください。なるべくはやめに対応いたします。
+もし何か問題あればGitHubやメール（samhui007@protonmail.com）まで連絡してください。なるべくはやめに対応いたします。
