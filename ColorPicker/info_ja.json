@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "ColorPicker",
-	"Description" : "アイコンはhttps://www.freepik.comからです。HEX、RGB、HSL、HSVでのカラーピッキングを可能にします",
-	"Category" : "Sam.Hによるアドオン",
-	"Features" : [ "色の選択、色モードの変更" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}

@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "PipetteACouleurs",
-	"Description" : "Permet la sélection des couleurs avec les modes de couleur HEX, RVB, HSL, HSV. Icons de Freepik https://www.freepik.com",
-	"Category" : "Addon par Sam.H",
-	"Features" : [ "Sélection de couleur, changement de mode de couleur" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}

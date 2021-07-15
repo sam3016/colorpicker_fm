@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "ColorPicker",
-	"Description" : "Allows color picking with color modes HEX, RGB, HSL, HSV. Icons from Freepik https://www.freepik.com",
-	"Category" : "Addon By Sam.H",
-	"Features" : [ "Color Selection, Color Mode Change" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}

@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "Faergvaeljare",
-	"Description" : "Tillåter färgplockning med färglägen HEX, RGB, HSL, HSV. ikoner från Freepik https://www.freepik.com",
-	"Category" : "Addon av Sam.H",
-	"Features" : [ "Färgval, ändring av färgläge" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}

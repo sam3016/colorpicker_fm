@@ -1,7 +1,0 @@
-﻿{
-	"Title" : "ColorPicker",
-	"Description" : "Consente la selezione del colore con le modalità colore HEX, RGB, HSL, HSV. Icone da Freepik https://www.freepik.com",
-	"Category" : "Addon di Sam.H",
-	"Features" : [ "Selezione colore, cambio modalità colore" ],
-	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
-}
