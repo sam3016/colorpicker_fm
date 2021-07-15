@@ -1,0 +1,7 @@
+﻿{
+	"Title" : "ColorPicker",
+	"Description" : "圖示是來自https://www.freepik.com。以HEX、RGB、HSL、HSV进行颜色选择。",
+	"Category" : "山姆.H的插件",
+	"Features" : [ "颜色选择，颜色模式改变" ],
+	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
+}
