@@ -1,0 +1,11 @@
+﻿{
+	"GUID" : "01B6C212-F2DC-4DD1-959D-BA3B82D768E9",
+	"Clients" :
+		[
+			"Pro"
+		],
+	"Attribution" : "Sam.H",
+	"URL" : "https://github.com/sam3016/colorpicker_fm",
+	"Icon_Color" : "#7F7F7F",
+	"Version" : "0.1"
+}
