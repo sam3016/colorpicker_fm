@@ -1,9 +1,11 @@
 <h1>Color Picker(v0.1)</h1>
 
 <h2>Introduction</h2>
-It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color
+It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color. 
 
-<h2>Language Support</h2>
+It is not for production use. The addon is used at your own risk. I cannot guarantee there is no bug.
+
+<h2>Language Support(Using Google Translate API)</h2>
 It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese, Brazilian-Portuguese, Korean and Simplified Chinese for everything at least in WebViewer.
 
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
@@ -12,7 +14,7 @@ You are welcome to send me the translation of other languages. I will update it 
 It supports Claris FileMaker > 19.3
 
 <h2>Installation</h2>
-Please copy the add-on folder to AddonModules
+Please copy the add-on folder to AddonModules. For Mac, you can double click the .fmaddon file, the addon folder will automatically be created.
 
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
 
@@ -24,7 +26,9 @@ If there are any issue you found, please contact me through GitHub or email me(s
 <h2>紹介</h2>
 Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-colorで作られたツールです。
 
-<h2>言語</h2>
+本番用ではありません。アドオンは自己責任でご利用ください。バグがないことは保証できません。
+
+<h2>言語支援（Google翻訳APIで）</h2>
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのもの)
 
 <h2>FileMakerバーション</h2>
