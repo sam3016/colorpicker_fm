@@ -20,6 +20,9 @@ Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModul
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
+<h2>Current Issue</h2>
+It is not working in Swedish and may be other languages as well.
+
 <h2>Contact</h2>
 If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
 
