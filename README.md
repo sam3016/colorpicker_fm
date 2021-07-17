@@ -15,7 +15,7 @@ It supports Claris FileMaker > 19.3
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules. For Mac, you can double click the .fmaddon file, the addon folder will automatically be created.
-
+< /br>
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
 
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
@@ -35,7 +35,7 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 FileMaker 19.3以上サポートされています。
 
 <h2>インストール</h2>
-アドオンフォルダをAddonModulesにコピーしてください。
+アドオンフォルダをAddonModulesにコピーしてください。　Macユーザは.fmaddonをダブルクリックするとフォルダが自動的に作成されます。
 
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
 
