@@ -7,7 +7,7 @@ It is not for production use. The addon is used at your own risk. I cannot guara
 
 <h2>Language Support(Using Google Translate API)</h2>
 It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese, Brazilian-Portuguese, Korean and Simplified Chinese for everything at least in WebViewer.
-
+<br><br>
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
 
 <h2>FileMaker Version</h2>
@@ -15,9 +15,9 @@ It supports Claris FileMaker > 19.3
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules. For Mac, you can double click the .fmaddon file, the addon folder will automatically be created.
-< /br>
+<br><br>
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
-
+<br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>Contact</h2>
@@ -36,9 +36,9 @@ FileMaker 19.3以上サポートされています。
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。　Macユーザは.fmaddonをダブルクリックするとフォルダが自動的に作成されます。
-
+<br><br>
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
-
+<br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>連絡</h2>
