@@ -1,4 +1,4 @@
-<h1>Color Picker(v0.1)</h1>
+<h1>Color Picker(v0.1.1)</h1>
 
 <h2>Introduction</h2>
 It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color. 
@@ -20,8 +20,9 @@ Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModul
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
-<h2>Current Issues</h2>
-It is not working in Swedish and may be other languages as well.
+<h2>History</h2>
+ver 0.1.1
+Fixing the issues of blank page of configurator of all languages other than English.
 
 <h2>Contact</h2>
 If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
@@ -43,6 +44,10 @@ FileMaker 19.3以上サポートされています。
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
+
+<h2>更新履歴</h2>
+ver 0.1.1
+英語以外のコンフィギュレーターページが空白になる。
 
 <h2>連絡</h2>
 もし何か問題あればGitHubやメール（samhui007@protonmail.com）まで連絡してください。なるべくはやめに対応いたします。
