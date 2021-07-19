@@ -20,6 +20,9 @@ Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModul
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
+<h2>Notice</h2>
+Please do not change the value of the value list, it may not support those values and display an error.
+
 <h2>History</h2>
 ver 0.1.1
 <br><br>
@@ -45,6 +48,9 @@ FileMaker 19.3以上サポートされています。
 Mac: /Users/username/Library/Application Support/FileMaker/Extensions/AddonModules
 <br><br>
 Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
+
+<h2>注意事項</h2>
+値一覧の値を変更しないでください。変更するとエラーが出るかもしれません。
 
 <h2>更新履歴</h2>
 ver 0.1.1
