@@ -807,7 +807,7 @@
 <DynamicTemplateString>
 	<StringID>com.fmi.layoutobject.text.CFF3A710558ED6469F42F809A8DD3BB6</StringID>
 	<SourceText>Color Picker Configurator</SourceText>
-	<TargetText>Color Picker Configurator</TargetText>
+	<TargetText>Konfigurator för färgväljare</TargetText>
 	<Comment>com.fmi.layoutobject.text.Color Picker Configurator</Comment>
 </DynamicTemplateString>
 
