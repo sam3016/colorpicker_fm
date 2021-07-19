@@ -11,7 +11,7 @@ It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese,
 You are welcome to send me the translation of other languages. I will update it as soon as possible.
 
 <h2>FileMaker Version</h2>
-It supports Claris FileMaker > 19.3
+It supports Claris FileMaker > 19.2.2.234
 
 <h2>Installation</h2>
 Please copy the add-on folder to AddonModules. For Mac, you can double click the .fmaddon file, the addon folder will automatically be created.
