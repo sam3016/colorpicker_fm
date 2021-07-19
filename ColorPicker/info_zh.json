@@ -1,6 +1,6 @@
 ﻿{
 	"Title" : "颜色选择器",
-	"Description" : "图示是来自https://www.freepik.com。\r以HEX、RGB、HSL、HSV进行颜色选择。",
+	"Description" : "以HEX、RGB、HSL、HSV进行颜色选择。\r图标来自Freepik https://www.freepik.com的。",
 	"Category" : "山姆.H的插件",
 	"Features" : [ "颜色选择，颜色模式改变" ],
 	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]

@@ -1,6 +1,6 @@
 ﻿{
 	"Title" : "SeletorDeCores",
-	"Description" : "Permite a seleção de cores com modos de cores HEX, RGB, HSL, HSV.\rIcons de Freepik https://www.freepik.com",
+	"Description" : "Permite a seleção de cores com modos de cores HEX, RGB, HSL, HSV\rIcons de Freepik https://www.freepik.com",
 	"Category" : "Addon por Sam.H",
 	"Features" : [ "Seleção de cor, mudança de modo de cor" ],
 	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]
