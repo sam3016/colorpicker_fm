@@ -22,6 +22,7 @@ Windows: Users\username\AppData\Local\FileMaker\Extensions\AddonModules
 
 <h2>History</h2>
 ver 0.1.1
+<br><br>
 Fixing the issues of blank page of configurator of all languages other than English.
 
 <h2>Contact</h2>
