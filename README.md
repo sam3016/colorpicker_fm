@@ -29,7 +29,7 @@ ver 0.1.1
 Fixing the issues of blank page of configurator of all languages other than English.
 
 <h2>Contact</h2>
-If there are any issue you found, please contact me through GitHub or email me(samhui007@protonmail.com).
+If there are any issue you found, please contact me through GitHub or Twitter.
 
 <h2>紹介</h2>
 Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-colorで作られたツールです。
@@ -57,4 +57,4 @@ ver 0.1.1
 英語以外のコンフィギュレーターページが空白になる。
 
 <h2>連絡</h2>
-もし何か問題あればGitHubやメール（samhui007@protonmail.com）まで連絡してください。なるべくはやめに対応いたします。
+もし何か問題あればGitHubやTwitterまで連絡してください。なるべくはやめに対応いたします。
