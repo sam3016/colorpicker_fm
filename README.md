@@ -40,7 +40,7 @@ Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/
 日本語、英語、フランス語、イタリア語、ドイツ語、スウェーデン語、オランダ語、スペイン語、中国語 (簡体字)、韓国語、およびポルトガル語 (ブラジル)がサポートされます。(WebViewerのもの)
 
 <h2>FileMakerバーション</h2>
-FileMaker 19.3以上サポートされています。
+FileMaker 19.2.2.234以上サポートされています。
 
 <h2>インストール</h2>
 アドオンフォルダをAddonModulesにコピーしてください。　Macユーザは.fmaddonをダブルクリックするとフォルダが自動的に作成されます。
