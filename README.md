@@ -5,6 +5,9 @@ It is a simple addon I built based on the template (cra-template-fmw) from Geist
 
 It is not for production use. The addon is used at your own risk. I cannot guarantee there is no bug.
 
+<h2>Demo</h2>
+https://vimeo.com/663689165
+
 <h2>Language Support(Using Google Translate API)</h2>
 It supports English, French, German, Italian, Dutch, Spanish, Swedish, Japanese, Brazilian-Portuguese, Korean and Simplified Chinese for everything at least in WebViewer.
 <br><br>
